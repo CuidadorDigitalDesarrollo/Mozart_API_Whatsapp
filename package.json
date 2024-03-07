@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/app.ts",
+<<<<<<< HEAD
     "start": "node ./src/app.ts",
+=======
+    "start": "node ./src/app.ts",
+>>>>>>> e77831af657685e645172e1b7e601322b01216c1
     "build": "tsc -p  ."
   },
   "keywords": [],
